@@ -1,0 +1,5 @@
+--- Simülasyon Günlüğü Başlangıcı ---
+[1.72sn] Simülasyon Başladı. Başlangıç Can: 100, Para: 200.
+[2.73sn] Kullanıcı,  inşa etmek için seçti (Maliyet: 70).
+[3.25sn] Kullanıcı, (-2, -3) konumuna '' inşa etti. Kalan Para: 130.
+[3.25sn] Kule inşa edilemedi: Lütfen önce bir kule tipi seçin.
