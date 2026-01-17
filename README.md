@@ -1,6 +1,6 @@
 # Unity Tower Defense Game
 
-A 2D strategy game developed in Unity, focusing on scalable object-oriented architecture. The project demonstrates advanced C++ concepts, including polymorphism and inheritance, to manage complex game states and enemy behaviors.
+A 2D strategy game developed in Unity, focusing on scalable object-oriented architecture. The project demonstrates advanced C# concepts, including polymorphism and inheritance, to manage complex game states and enemy behaviors.
 
 ## Key Features
 * **OOP Architecture:** specific enemy types (e.g., `ZombieEnemy`) inherit from a robust `EnemyBase` class to share logic while maintaining unique stats.
@@ -10,5 +10,5 @@ A 2D strategy game developed in Unity, focusing on scalable object-oriented arch
 
 ## Tech Stack
 * **Engine:** Unity 2022
-* **Language:** C++
+* **Language:** C#
 * **Concepts:** Inheritance, Encapsulation, Polymorphism, Abstraction
